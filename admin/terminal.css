@@ -1,0 +1,42 @@
+body {
+	background:black;
+	color: white;
+	font-family: 'VT323', monospace;
+}
+
+h1 {
+	font-size: 48px;
+	margin-left:6px;
+}
+
+p {
+	font-size: 36px;
+	margin-left: 6px;	
+}
+
+textarea {
+	font-size: 36px;
+	background:black;
+	color: white;
+	font-family: 'VT323', monospace;
+	border: 1px solid #000;
+	outline:none;
+	resize:none;
+	overflow-y: hidden;
+	width:99%;
+}
+
+#btn {
+	margin-left:6px;
+	margin-top:1em;
+	cursor: pointer;
+}
+
+hr {
+    display: block;
+    height: 3px;
+    border: 0;
+    border-top: 3px solid #fff;
+    margin: 1em 0;
+    padding: 0; 
+}
